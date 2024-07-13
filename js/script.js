@@ -1,0 +1,1 @@
+document.querySelector("h1").style.color = "#0bebcdd2";
